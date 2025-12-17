@@ -23,7 +23,7 @@ The application follows a vanilla RAG pipeline:
 
 ## 📊 RAG Pipeline Diagram
 
-![RAG Pipeline](figures/rag_pipeline.png)
+![RAG Pipeline](Graphical_illustration_RAG.png)
 
 ---
 
@@ -40,7 +40,7 @@ The application follows a vanilla RAG pipeline:
 ## 📓 Notebook
 
 The full implementation is available here:
-rag-course-chatbot.ipynb
+![RAG Notebook](RAG_material_courses.ipynb)
 
 
 ---
