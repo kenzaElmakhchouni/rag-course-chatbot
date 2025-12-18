@@ -9,7 +9,7 @@ is not present.
 
 ---
 
-## 🧠 Architecture Overview
+## Architecture Overview
 
 The application follows a vanilla RAG pipeline:
 
@@ -21,13 +21,13 @@ The application follows a vanilla RAG pipeline:
 
 ---
 
-## 📊 RAG Pipeline Diagram
+## RAG Pipeline Diagram
 
-![RAG Pipeline](Graphical_illustration_RAG.png)
+![RAG Pipeline](RAG_Architecture.png)
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - LangChain
 - Hugging Face Transformers
@@ -45,7 +45,7 @@ The full implementation is available here:
 
 ---
 
-## ✅ Key Characteristics
+##  Key Characteristics
 
 - Open-source LLM (no GPT used)
 - Retrieval-guided generation
@@ -54,7 +54,7 @@ The full implementation is available here:
 
 ---
 
-## 🎓 Academic Context
+##  Academic Context
 
 This project was developed as part of a university assignment
 on Retrieval-Augmented Generation (RAG).
