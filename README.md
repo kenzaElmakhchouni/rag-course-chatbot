@@ -27,7 +27,7 @@ The application follows a standard **vanilla RAG pipeline** composed of the foll
 
 ---
 
-## RAG DEMO
+## ChatBot DEMO
 
 ![ChatBot DEMO](RAG_Demo.png)
 
