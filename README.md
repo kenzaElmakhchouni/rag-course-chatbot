@@ -27,9 +27,9 @@ The application follows a standard **vanilla RAG pipeline** composed of the foll
 
 ---
 
-## RAG Pipeline Diagram
+## RAG DEMO
 
-![RAG Pipeline](RAG_Architecture.png)
+![RAG DEMO](RAG_Demo.png)
 
 ---
 
