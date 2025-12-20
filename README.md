@@ -52,6 +52,18 @@ The application follows a standard **vanilla RAG pipeline** composed of the foll
 
 ---
 
+---
+
+## Explanation Video
+
+You can watch a walkthrough of the RAG Course Chatbot in this video:
+
+[Watch the demo video](https://drive.google.com/drive/folders/1hRTmAQ0iRSrtjm3DJOqqmHtANm3C2H3e?usp=sharing)
+
+
+
+---
+
 ## Notes
 This project was developed for **educational and academic purposes**, focusing on reliable
 knowledge-grounded generation for university-level content.
