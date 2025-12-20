@@ -43,13 +43,6 @@ The application follows a standard **vanilla RAG pipeline** composed of the foll
 
 ---
 
-## 📓 Notebook
-
-The full implementation is available in the following notebook:  
-![RAG Notebook](RAG_material_courses.ipynb)
-
----
-
 ## Key Characteristics
 
 - Fully open-source pipeline (no proprietary LLMs used)
